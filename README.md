@@ -6,7 +6,7 @@
   - Instalar lo escencial
   https://facebook.github.io/react-native/docs/getting-started.html
 
-# ¿Como instalar el repositorio?
+# ¿Cómo instalar el repositorio?
 Clonar o descargar el repositorio y luego:
 ```sh
 $ cd carpeta-repositorio
@@ -27,7 +27,7 @@ Login con redes sociales:
 Acceso a Camara:
   - Un repositorio muy simple de utilizar https://github.com/marcshilling/react-native-image-picker
 Uso de mapas:
-  - Tenemos un mapa creado por airbnb (el cuál incluso react-native te invita a usar) https://github.com/airbnb/react-native-maps/
+  - Tenemos un mapa creado por airbnb (el cual incluso react-native te invita a usar) https://github.com/airbnb/react-native-maps/
   - También existe un módulo no oficial de mapbox https://github.com/mapbox/react-native-mapbox-gl
 Menu Lateral:
   - Este repositorio es muy simple de utilizar y trae muchas funcionalidades https://github.com/root-two/react-native-drawer
