@@ -1,5 +1,6 @@
-# Some-RN-Examples
-
+# Proyecto ejemplo base React Native
+  - React Native <= v0.42 
+  
 # ¿Qué Necesitan?
   - Instalar lo escencial
   https://facebook.github.io/react-native/docs/getting-started.html
