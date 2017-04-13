@@ -1,5 +1,6 @@
 # Proyecto ejemplo base React Native
-  - React Native <= v0.42 
+  - React Native <= v0.42 (v0.43 no soporta la integración de react-native-router-flux)
+  - Para instalar una versión específica de React Natica: ```sh $ react-native init --version="0.42.0" MyNewApp```
   
 # ¿Qué Necesitan?
   - Instalar lo escencial
